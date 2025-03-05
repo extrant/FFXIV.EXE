@@ -1,329 +1,4 @@
 {
-    "2025.01.28.0000.0000": {
-        "UP_ActionSend": [
-            375
-        ],
-        "UP_ActionSendPos": [
-            653
-        ],
-        "UP_ChatHandler": [
-            763
-        ],
-        "UP_ClientTrigger": [
-            716
-        ],
-        "UP_EventStart": [
-            572
-        ],
-        "UP_InventoryModifyHandler": [
-            362
-        ],
-        "UP_MarketBoardPurchaseHandler": [
-            969
-        ],
-        "UP_SetSearchInfoHandler": [
-            934
-        ],
-        "UP_EventFinish": [
-            101
-        ],
-        "UP_EventFinish4": [
-            325
-        ],
-        "UP_EventFinish8": [
-            725
-        ],
-        "UP_EventFinish16": [
-            482
-        ],
-        "UP_EventFinish32": [
-            915
-        ],
-        "UP_EventFinish64": [
-            639
-        ],
-        "UP_EventFinish128": [
-            761
-        ],
-        "UP_EventFinish255": [
-            508
-        ],
-        "UP_EventAction": [
-            270
-        ],
-        "UP_EventAction4": [
-            497
-        ],
-        "UP_EventAction8": [
-            167
-        ],
-        "UP_EventAction16": [
-            842
-        ],
-        "UP_EventAction32": [
-            301
-        ],
-        "UP_EventAction64": [
-            755
-        ],
-        "UP_EventAction128": [
-            542
-        ],
-        "UP_EventAction255": [
-            611
-        ],
-        "UP_UpdatePositionHandler": [
-            603
-        ],
-        "UP_UpdatePositionInstance": [
-            702
-        ],
-        "UP_MarketBoardQueryItemCount": [
-            358
-        ],
-        "UP_PingReq": [
-            733
-        ],
-        "DOWN_ActorCast": [
-            107
-        ],
-        "DOWN_ActorControl": [
-            482
-        ],
-        "DOWN_ActorControlSelf": [
-            915
-        ],
-        "DOWN_ActorControlTarget": [
-            639
-        ],
-        "DOWN_ActorGauge": [
-            901
-        ],
-        "DOWN_ActorMove": [
-            421
-        ],
-        "DOWN_ActorSetPos": [
-            741
-        ],
-        "DOWN_AirshipExplorationResult": [
-            953
-        ],
-        "DOWN_AirshipStatus": [
-            347
-        ],
-        "DOWN_AirshipStatusList": [
-            681
-        ],
-        "DOWN_AoeEffect16": [
-            167
-        ],
-        "DOWN_AoeEffect24": [
-            842
-        ],
-        "DOWN_AoeEffect32": [
-            301
-        ],
-        "DOWN_AoeEffect8": [
-            497
-        ],
-        "DOWN_BossStatusEffectList": [
-            356
-        ],
-        "DOWN_CEDirector": [
-            821
-        ],
-        "DOWN_CFPreferredRole": [
-            891
-        ],
-        "DOWN_ContentFinderNotifyPop": [
-            765
-        ],
-        "DOWN_EventActionResultN": [
-            149,
-            152,
-            354,
-            456,
-            481,
-            770,
-            859,
-            957
-        ],
-        "DOWN_Effect": [
-            508
-        ],
-        "DOWN_EffectResult": [
-            750
-        ],
-        "DOWN_EffectResult4": [
-            298
-        ],
-        "DOWN_EffectResult8": [
-            363
-        ],
-        "DOWN_EffectResult16": [
-            647
-        ],
-        "DOWN_EventFinish": [
-            897
-        ],
-        "DOWN_EventPlayN": [
-            218,
-            290,
-            333,
-            345,
-            397,
-            540,
-            622,
-            711
-        ],
-        "DOWN_EventStart": [
-            193
-        ],
-        "DOWN_Examine": [
-            435
-        ],
-        "DOWN_ExamineSearchInfo": [
-            326
-        ],
-        "DOWN_FateInfo": [
-            448
-        ],
-        "DOWN_FreeCompanyDialog": [
-            819
-        ],
-        "DOWN_FreeCompanyInfo": [
-            788
-        ],
-        "DOWN_InitZone": [
-            752
-        ],
-        "DOWN_InventoryActionAck": [
-            250
-        ],
-        "DOWN_InventoryTransaction": [
-            394
-        ],
-        "DOWN_InventoryTransactionFinish": [
-            204
-        ],
-        "DOWN_ContainerItemInfo": [
-            281,
-            718,
-            944
-        ],
-        "DOWN_ItemMarketBoardInfo": [
-            472
-        ],
-        "DOWN_Logout": [
-            457
-        ],
-        "DOWN_MapEffect": [
-            160
-        ],
-        "DOWN_MarketBoardItemListing": [
-            478
-        ],
-        "DOWN_MarketBoardItemListingCount": [
-            635
-        ],
-        "DOWN_MarketBoardItemListingHistory": [
-            191
-        ],
-        "DOWN_MarketBoardPurchase": [
-            739
-        ],
-        "DOWN_MarketBoardSearchResult": [
-            445
-        ],
-        "DOWN_NpcSpawn": [
-            922
-        ],
-        "DOWN_NpcSpawn2": [
-            286
-        ],
-        "DOWN_ObjectSpawn": [
-            596
-        ],
-        "DOWN_ActorDelete": [
-            768
-        ],
-        "DOWN_PlaceFieldMarker": [
-            145
-        ],
-        "DOWN_PlaceFieldMarkerPreset": [
-            409
-        ],
-        "DOWN_PlayerSetup": [
-            874
-        ],
-        "DOWN_PlayerSpawn": [
-            805
-        ],
-        "DOWN_PlayerStats": [
-            834
-        ],
-        "DOWN_Playtime": [
-            925
-        ],
-        "DOWN_PrepareZoning": [
-            703
-        ],
-        "DOWN_RetainerInformation": [
-            368
-        ],
-        "DOWN_StatusEffectList": [
-            505,
-            923
-        ],
-        "DOWN_StatusEffectList2": [
-            870
-        ],
-        "DOWN_StatusEffectList3": [
-            611
-        ],
-        "DOWN_SubmarineExplorationResult": [
-            443
-        ],
-        "DOWN_SubmarineProgressionStatus": [
-            597
-        ],
-        "DOWN_SubmarineStatusList": [
-            242
-        ],
-        "DOWN_SystemLogMessage": [
-            406
-        ],
-        "DOWN_RsvString": [
-            861
-        ],
-        "DOWN_RsfHeader": [
-            453
-        ],
-        "DOWN_UpdateHpMpGp": [
-            761
-        ],
-        "DOWN_UpdateInventorySlot": [
-            376
-        ],
-        "DOWN_UpdateSearchInfo": [
-            469
-        ],
-        "DOWN_WardLandInfo": [
-            783
-        ],
-        "DOWN_StartActionTimelineMulti": [
-            910
-        ],
-        "DOWN_PartyUpdate": [
-            413
-        ],
-        "DOWN_NpcYell": [
-            964
-        ],
-        "DOWN_PartyFinderResult": [
-            889
-        ]
-    },
     "2025.02.13.0000.0000": {
         "UP_ActionSend": [
             368
@@ -647,6 +322,331 @@
         ],
         "DOWN_PartyFinderResult": [
             509
+        ]
+    },
+    "2025.02.19.0000.0000": {
+        "UP_ActionSend": [
+            184
+        ],
+        "UP_ActionSendPos": [
+            545
+        ],
+        "UP_ChatHandler": [
+            571
+        ],
+        "UP_ClientTrigger": [
+            826
+        ],
+        "UP_EventStart": [
+            468
+        ],
+        "UP_InventoryModifyHandler": [
+            548
+        ],
+        "UP_MarketBoardPurchaseHandler": [
+            359
+        ],
+        "UP_SetSearchInfoHandler": [
+            655
+        ],
+        "UP_EventFinish": [
+            179
+        ],
+        "UP_EventFinish4": [
+            420
+        ],
+        "UP_EventFinish8": [
+            942
+        ],
+        "UP_EventFinish16": [
+            842
+        ],
+        "UP_EventFinish32": [
+            461
+        ],
+        "UP_EventFinish64": [
+            348
+        ],
+        "UP_EventFinish128": [
+            776
+        ],
+        "UP_EventFinish255": [
+            520
+        ],
+        "UP_EventAction": [
+            631
+        ],
+        "UP_EventAction4": [
+            158
+        ],
+        "UP_EventAction8": [
+            374
+        ],
+        "UP_EventAction16": [
+            432
+        ],
+        "UP_EventAction32": [
+            525
+        ],
+        "UP_EventAction64": [
+            339
+        ],
+        "UP_EventAction128": [
+            948
+        ],
+        "UP_EventAction255": [
+            500
+        ],
+        "UP_UpdatePositionHandler": [
+            272
+        ],
+        "UP_UpdatePositionInstance": [
+            658
+        ],
+        "UP_MarketBoardQueryItemCount": [
+            386
+        ],
+        "UP_PingReq": [
+            372
+        ],
+        "DOWN_ActorCast": [
+            855
+        ],
+        "DOWN_ActorControl": [
+            842
+        ],
+        "DOWN_ActorControlSelf": [
+            461
+        ],
+        "DOWN_ActorControlTarget": [
+            348
+        ],
+        "DOWN_ActorGauge": [
+            820
+        ],
+        "DOWN_ActorMove": [
+            113
+        ],
+        "DOWN_ActorSetPos": [
+            859
+        ],
+        "DOWN_AirshipExplorationResult": [
+            310
+        ],
+        "DOWN_AirshipStatus": [
+            157
+        ],
+        "DOWN_AirshipStatusList": [
+            825
+        ],
+        "DOWN_AoeEffect16": [
+            374
+        ],
+        "DOWN_AoeEffect24": [
+            432
+        ],
+        "DOWN_AoeEffect32": [
+            525
+        ],
+        "DOWN_AoeEffect8": [
+            158
+        ],
+        "DOWN_BossStatusEffectList": [
+            908
+        ],
+        "DOWN_CEDirector": [
+            692
+        ],
+        "DOWN_CFPreferredRole": [
+            506
+        ],
+        "DOWN_ContentFinderNotifyPop": [
+            129
+        ],
+        "DOWN_EventActionResultN": [
+            167,
+            215,
+            378,
+            539,
+            563,
+            608,
+            656,
+            790
+        ],
+        "DOWN_Effect": [
+            520
+        ],
+        "DOWN_EffectResult": [
+            970
+        ],
+        "DOWN_EffectResult4": [
+            983
+        ],
+        "DOWN_EffectResult8": [
+            299
+        ],
+        "DOWN_EffectResult16": [
+            946
+        ],
+        "DOWN_EventFinish": [
+            584
+        ],
+        "DOWN_EventPlayN": [
+            108,
+            382,
+            404,
+            490,
+            719,
+            768,
+            771,
+            962
+        ],
+        "DOWN_EventStart": [
+            165
+        ],
+        "DOWN_Examine": [
+            427
+        ],
+        "DOWN_ExamineSearchInfo": [
+            786
+        ],
+        "DOWN_FateInfo": [
+            903
+        ],
+        "DOWN_FreeCompanyDialog": [
+            927
+        ],
+        "DOWN_FreeCompanyInfo": [
+            499
+        ],
+        "DOWN_InitZone": [
+            287
+        ],
+        "DOWN_InventoryActionAck": [
+            808
+        ],
+        "DOWN_InventoryTransaction": [
+            910
+        ],
+        "DOWN_InventoryTransactionFinish": [
+            846
+        ],
+        "DOWN_ContainerItemInfo": [
+            318,
+            471,
+            582
+        ],
+        "DOWN_ItemMarketBoardInfo": [
+            623
+        ],
+        "DOWN_Logout": [
+            361
+        ],
+        "DOWN_MapEffect": [
+            935
+        ],
+        "DOWN_MarketBoardItemListing": [
+            648
+        ],
+        "DOWN_MarketBoardItemListingCount": [
+            331
+        ],
+        "DOWN_MarketBoardItemListingHistory": [
+            743
+        ],
+        "DOWN_MarketBoardPurchase": [
+            585
+        ],
+        "DOWN_MarketBoardSearchResult": [
+            750
+        ],
+        "DOWN_NpcSpawn": [
+            809
+        ],
+        "DOWN_NpcSpawn2": [
+            117
+        ],
+        "DOWN_ObjectSpawn": [
+            223
+        ],
+        "DOWN_ActorDelete": [
+            485
+        ],
+        "DOWN_PlaceFieldMarker": [
+            120
+        ],
+        "DOWN_PlaceFieldMarkerPreset": [
+            395
+        ],
+        "DOWN_PlayerSetup": [
+            964
+        ],
+        "DOWN_PlayerSpawn": [
+            764
+        ],
+        "DOWN_PlayerStats": [
+            690
+        ],
+        "DOWN_Playtime": [
+            324
+        ],
+        "DOWN_PrepareZoning": [
+            735
+        ],
+        "DOWN_RetainerInformation": [
+            880
+        ],
+        "DOWN_StatusEffectList": [
+            716,
+            871
+        ],
+        "DOWN_StatusEffectList2": [
+            367
+        ],
+        "DOWN_StatusEffectList3": [
+            500
+        ],
+        "DOWN_SubmarineExplorationResult": [
+            583
+        ],
+        "DOWN_SubmarineProgressionStatus": [
+            511
+        ],
+        "DOWN_SubmarineStatusList": [
+            725
+        ],
+        "DOWN_SystemLogMessage": [
+            146
+        ],
+        "DOWN_RsvString": [
+            661
+        ],
+        "DOWN_RsfHeader": [
+            700
+        ],
+        "DOWN_UpdateHpMpGp": [
+            776
+        ],
+        "DOWN_UpdateInventorySlot": [
+            325
+        ],
+        "DOWN_UpdateSearchInfo": [
+            162
+        ],
+        "DOWN_WardLandInfo": [
+            845
+        ],
+        "DOWN_StartActionTimelineMulti": [
+            872
+        ],
+        "DOWN_PartyUpdate": [
+            791
+        ],
+        "DOWN_NpcYell": [
+            291
+        ],
+        "DOWN_PartyFinderResult": [
+            884
         ]
     }
 }
