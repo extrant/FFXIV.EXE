@@ -101,3 +101,4 @@ DOWN_StartActionTimelineMulti =
 DOWN_PartyUpdate = 0x328
 DOWN_NpcYell = 0xB4
 DOWN_PartyFinderResult = 0x292
+DOWN_RecvPlaceCardPack = 0x29E

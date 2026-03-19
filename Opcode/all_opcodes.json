@@ -2865,6 +2865,9 @@
         ],
         "DOWN_PartyFinderResult": [
             658
+        ],
+        "DOWN_RecvPlaceCardPack": [
+            670
         ]
     }
 }
